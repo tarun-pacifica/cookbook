@@ -1,0 +1,29 @@
+body {
+	background-color: orange;
+	column-rule: #ccc;
+	}
+
+#container {
+	windows: 960px;
+	margin: auto;
+}
+nav ul li {
+display: inline;
+list-style: none;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+nav ul li a {
+color: white;	
+}
+
+img{
+	max-width: 300px;
+}
